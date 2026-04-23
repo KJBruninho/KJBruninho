@@ -15,4 +15,4 @@ Computer Science Engineering Student @ UBI | Philosophy Graduate @ UMinho.
 ---
 
 ### 📫 Contact Me
-- **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/KJBruninho](https://www.linkedin.com/in/bruno-marinho-0bb192329/))
+- **LinkedIn:** [Bruno Marinho](https://www.linkedin.com/in/bruno-marinho-0bb192329/)

@@ -14,12 +14,5 @@ Computer Science Engineering Student @ UBI | Philosophy Graduate @ UMinho.
 
 ---
 
-### 🛠️ Technologies & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,spring,maven,mysql,html,css,js,git,vscode" />
-</p>
-
----
-
 ### 📫 Contact Me
 - **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/KJBruninho](https://www.linkedin.com/in/bruno-marinho-0bb192329/))

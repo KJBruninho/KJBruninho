@@ -1,11 +1,25 @@
-📊 Estatísticas Gerais do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KJBruninho&show_icons=true&theme=radical)
+Computer Science Engineering Student @ UBI | Philosophy Graduate @ UMinho.
 
-🏆 Linguagens Mais Utilizadas
+---
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KJBruninho&layout=compact&theme=radical)
+### 📊 Stats and Activity
 
-🔥 Streak de Contribuições
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=KJBruninho&show_icons=true&theme=tokyonight&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJBruninho&layout=compact&theme=tokyonight&hide=powershell,shell,dockerfile) |
 
-![Streak de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=KJBruninho&theme=radical)
+### 🔥 Contribution Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJBruninho&theme=tokyonight)
+
+---
+
+### 🛠️ Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,spring,maven,mysql,html,css,js,git,vscode" />
+</p>
+
+---
+
+### 📫 Contact Me
+- **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/KJBruninho](https://www.linkedin.com/in/bruno-marinho-0bb192329/))

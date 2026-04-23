@@ -1,7 +1,9 @@
-# Welcome, I'm Bruno Marinho 
+<div align="center">
+  <h1>Welcome, I'm Bruno Marinho </h1>
+</div>
 
-* **Computer Science Engineering Student** _____ @ UBI 
-* **Philosophy Graduate**__________________________ @ UMinho
+* **Computer Science Engineering Student** @ UBI 
+* **Philosophy Graduate** @ UMinho
 
 ---
 

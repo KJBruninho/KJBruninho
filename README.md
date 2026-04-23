@@ -1,7 +1,7 @@
 # Welcome, I'm Bruno Marinho 
 
 * **Computer Science Engineering Student** _____ @ UBI 
-* **Philosophy Graduate**_______________________ @ UMinho
+* **Philosophy Graduate**________________________ @ UMinho
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-| Computer Science Engineering Student     @ UBI 
-| Philosophy Graduate                      @ UMinho.
+| Computer Science Engineering Student @ UBI 
+| Philosophy Graduate @ UMinho
 
 ---
 
